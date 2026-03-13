@@ -1,0 +1,252 @@
+[
+    {
+        "producto": "Cuaderno grande",
+        "precio": 6000,
+        "cantidad": 15
+    },
+    {
+        "producto": "Cuaderno peque\u00f1o",
+        "precio": 4000,
+        "cantidad": 20
+    },
+    {
+        "producto": "Cuaderno cuadriculado",
+        "precio": 5500,
+        "cantidad": 18
+    },
+    {
+        "producto": "Cuaderno rayado",
+        "precio": 5500,
+        "cantidad": 18
+    },
+    {
+        "producto": "Lapiz HB",
+        "precio": 1000,
+        "cantidad": 40
+    },
+    {
+        "producto": "Lapiz 2B",
+        "precio": 1200,
+        "cantidad": 30
+    },
+    {
+        "producto": "Lapicero azul",
+        "precio": 1200,
+        "cantidad": 35
+    },
+    {
+        "producto": "Lapicero negro",
+        "precio": 1200,
+        "cantidad": 30
+    },
+    {
+        "producto": "Lapicero rojo",
+        "precio": 1200,
+        "cantidad": 25
+    },
+    {
+        "producto": "Borrador blanco",
+        "precio": 800,
+        "cantidad": 20
+    },
+    {
+        "producto": "Borrador de nata",
+        "precio": 900,
+        "cantidad": 18
+    },
+    {
+        "producto": "Sacapuntas metalico",
+        "precio": 1500,
+        "cantidad": 15
+    },
+    {
+        "producto": "Sacapuntas plastico",
+        "precio": 1000,
+        "cantidad": 20
+    },
+    {
+        "producto": "Regla 20 cm",
+        "precio": 2000,
+        "cantidad": 15
+    },
+    {
+        "producto": "Regla 30 cm",
+        "precio": 2500,
+        "cantidad": 12
+    },
+    {
+        "producto": "Escuadra",
+        "precio": 3000,
+        "cantidad": 10
+    },
+    {
+        "producto": "Transportador",
+        "precio": 2500,
+        "cantidad": 10
+    },
+    {
+        "producto": "Compas",
+        "precio": 6000,
+        "cantidad": 8
+    },
+    {
+        "producto": "Marcador negro",
+        "precio": 3000,
+        "cantidad": 12
+    },
+    {
+        "producto": "Marcador azul",
+        "precio": 3000,
+        "cantidad": 12
+    },
+    {
+        "producto": "Marcador rojo",
+        "precio": 3000,
+        "cantidad": 10
+    },
+    {
+        "producto": "Resaltador amarillo",
+        "precio": 2800,
+        "cantidad": 14
+    },
+    {
+        "producto": "Resaltador verde",
+        "precio": 2800,
+        "cantidad": 14
+    },
+    {
+        "producto": "Resaltador rosado",
+        "precio": 2800,
+        "cantidad": 14
+    },
+    {
+        "producto": "Corrector liquido",
+        "precio": 2500,
+        "cantidad": 10
+    },
+    {
+        "producto": "Corrector cinta",
+        "precio": 3500,
+        "cantidad": 8
+    },
+    {
+        "producto": "Pegante en barra",
+        "precio": 3000,
+        "cantidad": 15
+    },
+    {
+        "producto": "Pegante liquido",
+        "precio": 2500,
+        "cantidad": 12
+    },
+    {
+        "producto": "Tijeras escolares",
+        "precio": 4500,
+        "cantidad": 10
+    },
+    {
+        "producto": "Cinta adhesiva",
+        "precio": 2000,
+        "cantidad": 16
+    },
+    {
+        "producto": "Cinta doble cara",
+        "precio": 3000,
+        "cantidad": 12
+    },
+    {
+        "producto": "Grapadora",
+        "precio": 8000,
+        "cantidad": 6
+    },
+    {
+        "producto": "Caja de grapas",
+        "precio": 2000,
+        "cantidad": 15
+    },
+    {
+        "producto": "Carpeta plastica",
+        "precio": 3500,
+        "cantidad": 20
+    },
+    {
+        "producto": "Carpeta de carton",
+        "precio": 3000,
+        "cantidad": 18
+    },
+    {
+        "producto": "Separadores",
+        "precio": 2500,
+        "cantidad": 14
+    },
+    {
+        "producto": "Block de notas",
+        "precio": 4000,
+        "cantidad": 12
+    },
+    {
+        "producto": "Block cuadriculado",
+        "precio": 4500,
+        "cantidad": 10
+    },
+    {
+        "producto": "Cartulina blanca",
+        "precio": 1500,
+        "cantidad": 25
+    },
+    {
+        "producto": "Cartulina de colores",
+        "precio": 1800,
+        "cantidad": 25
+    },
+    {
+        "producto": "Papel bond carta",
+        "precio": 12000,
+        "cantidad": 6
+    },
+    {
+        "producto": "Papel bond oficio",
+        "precio": 14000,
+        "cantidad": 5
+    },
+    {
+        "producto": "Papel iris",
+        "precio": 5000,
+        "cantidad": 10
+    },
+    {
+        "producto": "Papel kraft",
+        "precio": 6000,
+        "cantidad": 8
+    },
+    {
+        "producto": "Cartuchera",
+        "precio": 10000,
+        "cantidad": 10
+    },
+    {
+        "producto": "Mochila escolar",
+        "precio": 60000,
+        "cantidad": 5
+    },
+    {
+        "producto": "Agenda escolar",
+        "precio": 9000,
+        "cantidad": 10
+    },
+    {
+        "producto": "Calculadora basica",
+        "precio": 15000,
+        "cantidad": 6
+    },
+    {
+        "producto": "Calculadora cientifica",
+        "precio": 70000,
+        "cantidad": 3
+    },
+    {
+        "producto": "Kit geometrico",
+        "precio": 8000,
+        "cantidad": 8
+    }
+]

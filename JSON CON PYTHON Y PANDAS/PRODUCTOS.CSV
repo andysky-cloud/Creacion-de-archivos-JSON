@@ -1,0 +1,51 @@
+producto,precio,cantidad
+Cuaderno grande,6000,15
+Cuaderno pequeño,4000,20
+Cuaderno cuadriculado,5500,18
+Cuaderno rayado,5500,18
+Lapiz HB,1000,40
+Lapiz 2B,1200,30
+Lapicero azul,1200,35
+Lapicero negro,1200,30
+Lapicero rojo,1200,25
+Borrador blanco,800,20
+Borrador de nata,900,18
+Sacapuntas metalico,1500,15
+Sacapuntas plastico,1000,20
+Regla 20 cm,2000,15
+Regla 30 cm,2500,12
+Escuadra,3000,10
+Transportador,2500,10
+Compas,6000,8
+Marcador negro,3000,12
+Marcador azul,3000,12
+Marcador rojo,3000,10
+Resaltador amarillo,2800,14
+Resaltador verde,2800,14
+Resaltador rosado,2800,14
+Corrector liquido,2500,10
+Corrector cinta,3500,8
+Pegante en barra,3000,15
+Pegante liquido,2500,12
+Tijeras escolares,4500,10
+Cinta adhesiva,2000,16
+Cinta doble cara,3000,12
+Grapadora,8000,6
+Caja de grapas,2000,15
+Carpeta plastica,3500,20
+Carpeta de carton,3000,18
+Separadores,2500,14
+Block de notas,4000,12
+Block cuadriculado,4500,10
+Cartulina blanca,1500,25
+Cartulina de colores,1800,25
+Papel bond carta,12000,6
+Papel bond oficio,14000,5
+Papel iris,5000,10
+Papel kraft,6000,8
+Cartuchera,10000,10
+Mochila escolar,60000,5
+Agenda escolar,9000,10
+Calculadora basica,15000,6
+Calculadora cientifica,70000,3
+Kit geometrico,8000,8
